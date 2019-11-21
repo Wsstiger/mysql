@@ -8,6 +8,7 @@ import (
 	"github.com/arnehormann/sqlinternals/mysqlinternals"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/shopspring/decimal"
+
 	//"reflect"
 	"errors"
 	"strconv"
